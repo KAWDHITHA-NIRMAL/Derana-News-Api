@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-20/254920-2027.md">
-  <img src="https://media.adaderanasinhala.lk/articles/254920/MediaFile_20261120_011601_226.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-20/254945-254945.md">
+  <img src="https://media.adaderanasinhala.lk/articles/254945/MediaFile_20261120_073735_522.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>2027 අයවැය දෙවන වර කියවීමේ ඡන්ද විමසීම අද</h2>
+<h2>මෙම මාසය අවසන් වනවිට උද්ධමනය 9%ක් දක්වා ඉහළ යා හැකියි – මහ බැංකු අධිපති</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-20&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-20/254920-2027.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-20/254945-254945.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-20/254921-254921.md"><b>නීතිවිරෝධී ඖෂධ, බීජ හා රූපලාවන්‍ය ද්‍රව්‍ය තොගයක් සමඟ අයෙකු කොටුවෙයි</b></a> <code>Nov 20, 202606:48 AM</code></li>
-    <li><a href="News/2026-11-20/254919-254919.md"><b>අයවැයට එරෙහිව රජයේ විධායක නිලධාරීන් අද වැඩවර්ජනයක</b></a> <code>Nov 20, 202606:18 AM</code></li>
-    <li><a href="News/2026-11-20/254918-254918.md"><b>අද කාලගුණය</b></a> <code>Nov 20, 202606:05 AM</code></li>
-    <li><a href="News/2026-11-19/254917-254917.md"><b>කැබැල්ලෑවෙකු මරා දැමූ දෙදෙනෙකු පොලිස් භාරයට</b></a> <code>Nov 19, 202610:07 PM</code></li>
-    <li><a href="News/2026-11-19/254916-254916.md"><b>බීමත්ව රිය පැදවූ ලංගම  බස් රියදුරුගේ 'ලයිසන්'එක   ජීවිතාන්තය දක්වා අවලංගු කෙරේ</b></a> <code>Nov 19, 202610:00 PM</code></li>
+    <li><a href="News/2026-11-20/254952-254952.md"><b>හුස්ම ගැනීමේ අපහසුතාවයක් නිසා සිසුන් 36 දෙනෙකු රෝහල්ගත කෙරේ</b></a> <code>Nov 20, 202602:33 PM</code></li>
+    <li><a href="News/2026-11-20/254951-274.md"><b>තහනම් ධීවර දැල් 274ක් සමඟ සැකකරුවෙක් යාපනයේදී අත්අඩංගුවට </b></a> <code>Nov 20, 202602:23 PM</code></li>
+    <li><a href="News/2026-11-20/254948-136.md"><b>වනජීවී ස්වේච්ඡා මාර්ගෝපදේශකයින් 136ක් ස්ථිර රාජ්‍ය සේවයට</b></a> <code>Nov 20, 202602:08 PM</code></li>
+    <li><a href="News/2026-11-20/254947-254947.md"><b>රොටුඹ අමිල අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට</b></a> <code>Nov 20, 202601:17 PM</code></li>
+    <li><a href="News/2026-11-20/254944-254944.md"><b>චාමර සම්පත් සහ පෞද්ගලික ලේකම් තවදුරටත් රිමාන්ඩ්</b></a> <code>Nov 20, 202612:51 PM</code></li>
   </ul>
 </details>
 

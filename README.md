@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-19/254911-254911.md">
-  <img src="https://media.adaderanasinhala.lk/articles/254911/MediaFile_20261119_142652_974.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-20/254920-2027.md">
+  <img src="https://media.adaderanasinhala.lk/articles/254920/MediaFile_20261120_011601_226.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>එයාර් බස් ගනුදෙනුවට අදාළව නාමල්ට අධිචෝදනා - අද කැඳවූ නඩුවේ සම්පූර්ණ විස්තරය</h2>
+<h2>2027 අයවැය දෙවන වර කියවීමේ ඡන්ද විමසීම අද</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-19&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-20&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Ada%20Derana&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=Ada%20Derana&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-19/254911-254911.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-20/254920-2027.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
+    <li><a href="News/2026-11-20/254921-254921.md"><b>නීතිවිරෝධී ඖෂධ, බීජ හා රූපලාවන්‍ය ද්‍රව්‍ය තොගයක් සමඟ අයෙකු කොටුවෙයි</b></a> <code>Nov 20, 202606:48 AM</code></li>
+    <li><a href="News/2026-11-20/254919-254919.md"><b>අයවැයට එරෙහිව රජයේ විධායක නිලධාරීන් අද වැඩවර්ජනයක</b></a> <code>Nov 20, 202606:18 AM</code></li>
+    <li><a href="News/2026-11-20/254918-254918.md"><b>අද කාලගුණය</b></a> <code>Nov 20, 202606:05 AM</code></li>
     <li><a href="News/2026-11-19/254917-254917.md"><b>කැබැල්ලෑවෙකු මරා දැමූ දෙදෙනෙකු පොලිස් භාරයට</b></a> <code>Nov 19, 202610:07 PM</code></li>
     <li><a href="News/2026-11-19/254916-254916.md"><b>බීමත්ව රිය පැදවූ ලංගම  බස් රියදුරුගේ 'ලයිසන්'එක   ජීවිතාන්තය දක්වා අවලංගු කෙරේ</b></a> <code>Nov 19, 202610:00 PM</code></li>
-    <li><a href="News/2026-11-19/254915-254915.md"><b>බහරේනයේ සිටින ශ්‍රී ලාංකිකයින්ට තානාපති කාර්යාලයෙන් දැනුම්දීමක්</b></a> <code>Nov 19, 202609:29 PM</code></li>
-    <li><a href="News/2026-11-19/254913-254913.md"><b>මුහුදු මාර්ගයෙන් මෙරටට ගෙන ඒමට තිබූ හෙරොයින් කිලෝ 71ක් ඉන්දියාවේදී මාට්ටු</b></a> <code>Nov 19, 202608:51 PM</code></li>
-    <li><a href="News/2026-11-19/254912-254912.md"><b>පවුලක් අළුකළ කඩුවෙල ගින්නේ තොරතුරු රැසක් - දුම ආඝ්‍රාණය වීමෙන් මරණ සිදුව ඇති බවට සැකයක්</b></a> <code>Nov 19, 202607:44 PM</code></li>
   </ul>
 </details>
 

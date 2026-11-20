@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-20/254945-254945.md">
-  <img src="https://media.adaderanasinhala.lk/articles/254945/MediaFile_20261120_073735_522.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-20/254968-2027-97.md">
+  <img src="https://media.adaderanasinhala.lk/articles/254968/MediaFile_20261120_133230_087.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>මෙම මාසය අවසන් වනවිට උද්ධමනය 9%ක් දක්වා ඉහළ යා හැකියි – මහ බැංකු අධිපති</h2>
+<h2>2027 අයවැය දෙවන වර කියවීම වැඩි ඡන්ද 97කින් සම්මතයි</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-20&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-20/254945-254945.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-20/254968-2027-97.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-20/254952-254952.md"><b>හුස්ම ගැනීමේ අපහසුතාවයක් නිසා සිසුන් 36 දෙනෙකු රෝහල්ගත කෙරේ</b></a> <code>Nov 20, 202602:33 PM</code></li>
-    <li><a href="News/2026-11-20/254951-274.md"><b>තහනම් ධීවර දැල් 274ක් සමඟ සැකකරුවෙක් යාපනයේදී අත්අඩංගුවට </b></a> <code>Nov 20, 202602:23 PM</code></li>
-    <li><a href="News/2026-11-20/254948-136.md"><b>වනජීවී ස්වේච්ඡා මාර්ගෝපදේශකයින් 136ක් ස්ථිර රාජ්‍ය සේවයට</b></a> <code>Nov 20, 202602:08 PM</code></li>
-    <li><a href="News/2026-11-20/254947-254947.md"><b>රොටුඹ අමිල අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට</b></a> <code>Nov 20, 202601:17 PM</code></li>
-    <li><a href="News/2026-11-20/254944-254944.md"><b>චාමර සම්පත් සහ පෞද්ගලික ලේකම් තවදුරටත් රිමාන්ඩ්</b></a> <code>Nov 20, 202612:51 PM</code></li>
+    <li><a href="News/2026-11-20/254975-254975.md"><b>බොරැල්ල D.S සේනානායක මංසන්ධියෙන් කොළඹට ඇතුළු වන මන්තීරුව තාවකාලිව වැසේ</b></a> <code>Nov 20, 202609:54 PM</code></li>
+    <li><a href="News/2026-11-20/254974-460.md"><b>බීඩි කොළ කිලෝග්‍රෑම් 460ක් කල්පිටියේදී නාවික හමුදා භාරයට</b></a> <code>Nov 20, 202609:42 PM</code></li>
+    <li><a href="News/2026-11-20/254973-254973.md"><b>කැනේඩියානු මහ කොමසාරිස්වරිය හා අග්‍රාමාත්‍යවරිය අතර හමුවක්</b></a> <code>Nov 20, 202609:30 PM</code></li>
+    <li><a href="News/2026-11-20/254972-254972.md"><b>චීන ආයෝජනයෙන් ගොඩනැගෙන ශ්‍රී ලංකාවේ ඩොලර් බිලියන 15ක නව නගරය</b></a> <code>Nov 20, 202608:33 PM</code></li>
+    <li><a href="News/2026-11-20/254971-254971.md"><b>පිල්ලෙයාන්ට ඇප ඉල්ලා අභියාචනාධිකරණයට පෙත්සමක්</b></a> <code>Nov 20, 202608:19 PM</code></li>
   </ul>
 </details>
 

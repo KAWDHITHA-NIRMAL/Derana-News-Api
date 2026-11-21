@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-21/254976-254976.md">
-  <img src="https://media.adaderanasinhala.lk/articles/254976/MediaFile_20261121_005243_880.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-21/254998-254998.md">
+  <img src="https://media.adaderanasinhala.lk/articles/254998/MediaFile_20261121_110520_301.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ඉදිරියේදී එන වැස්ස ගැන අනාවැකියක්</h2>
+<h2>ඉන්දියන් සාගරයේ ප්‍රබල භූකම්පනයක් - ශ්‍රී ලංකාවට සුනාමි අවදානමක් නෑ</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-21&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-21/254976-254976.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-21/254998-254998.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-21/254982-2027.md"><b>පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි - 2027 අයවැය කාරක සභා විවාදය අද සිට</b></a> <code>Nov 21, 202609:30 AM</code></li>
-    <li><a href="News/2026-11-21/254980-GLEC.md"><b>'GLEC' සමුළුවට එක්වීමට දිලිත් ඇතුළු පිරිස ජපානයට</b></a> <code>Nov 21, 202608:14 AM</code></li>
-    <li><a href="News/2026-11-21/254979-254979.md"><b>"ප්‍රහාර යළි සිදු නොවන බවට සහතිකයක් නොමැතිව කිසිදු එකඟතාවක් නෑ" -  ඉරාන විදේශ ඇමති</b></a> <code>Nov 21, 202607:43 AM</code></li>
-    <li><a href="News/2026-11-21/254977-254977.md"><b>කඩුවෙල ගින්නෙන් දිවි අහිමි වූ එකම පවුලේ සිව්දෙනාගේ දේහයන් නිවසට</b></a> <code>Nov 21, 202606:56 AM</code></li>
-    <li><a href="News/2026-11-20/254975-254975.md"><b>බොරැල්ල D.S සේනානායක මංසන්ධියෙන් කොළඹට ඇතුළු වන මන්තීරුව තාවකාලිව වැසේ</b></a> <code>Nov 20, 202609:54 PM</code></li>
+    <li><a href="News/2026-11-21/255001-255001.md"><b>බලංගොඩදී තාප්පයක් කඩා වැටී 07 හැවිරිදි දරුවෙකු මරුට</b></a> <code>Nov 21, 202605:44 PM</code></li>
+    <li><a href="News/2026-11-21/255000-255000.md"><b>වාහන ආනයන බදු ප්‍රතිපත්ති සහ රේගු නිදහස්  කිරීමේ ක්‍රියාවලියේ ගැටලු ගැන අවධානය</b></a> <code>Nov 21, 202605:13 PM</code></li>
+    <li><a href="News/2026-11-21/254999-254999.md"><b>අතරමඟ නතර වූ අධ්‍යාපන සංවර්ධන ව්‍යාපෘති 72ක් සම්බන්ධයෙන් තොරතුරු අනාවරණ වෙයි </b></a> <code>Nov 21, 202604:58 PM</code></li>
+    <li><a href="News/2026-11-21/254997-GMOA.md"><b>අයවැයෙන් ඉල්ලීම් ඉටු නොවීම ගැන සාකච්ඡා කරන්න GMOA ශාඛා සමිති සඳුදා රැස්වෙයි</b></a> <code>Nov 21, 202603:42 PM</code></li>
+    <li><a href="News/2026-11-21/254995-254995.md"><b>ත්‍රිකුණාමලය  යුද හමුදා කඳවුරේ ගබඩාවක ඇති වූ ගින්න පාලනය කෙරේ</b></a> <code>Nov 21, 202603:00 PM</code></li>
   </ul>
 </details>
 

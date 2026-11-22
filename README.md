@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-21/255004-255004.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255004/MediaFile_20261121_134428_911.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-22/255011-255011.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255011/MediaFile_20261122_004740_360.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ජනාධිපති හා අග්‍රාමාත්‍ය කාර්යාලය ඇතුළු විශේෂ වියදම් ඒකක 21ක වැය ශීර්ෂ සම්මතයි</h2>
+<h2>නියෝජ්‍ය පොලිස්පතිවරුන් 06 දෙනෙකුට වහාම ක්‍රියාත්මක වන පරිදි ස්ථාන මාරුවීම්</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-21&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-22&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Ada%20Derana&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=Ada%20Derana&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-21/255004-255004.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-22/255011-255011.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-21/255009-255009.md"><b>ඉන්දියානු නිවාස ව්‍යාපෘතියේ සිව්වන අදියර යටතේ තවත් නිවාස 11ක් ඉදිකිරීම ඇරඹෙයි</b></a> <code>Nov 21, 202610:45 PM</code></li>
-    <li><a href="News/2026-11-21/255007-255007.md"><b>චෙම්මනි සමූහ මිනීවළ ගැන විමර්ශන විද්‍යාත්මකව සහ අධිකරණ අධීක්ෂණය යටතේ සිදුකරනවා – අධිකරණ ඇමති</b></a> <code>Nov 21, 202609:06 PM</code></li>
-    <li><a href="News/2026-11-21/255006-221.md"><b>මූලික පුහුණුව අවසන් කළ නවක නිලධාරීන් 221 දෙනෙකු විශේෂ කාර්ය බළකායට එක්වෙයි</b></a> <code>Nov 21, 202609:04 PM</code></li>
-    <li><a href="News/2026-11-21/255005-255005.md"><b>ඌව පළාතේ පළාත් පාලන ආයතන 28කට අදාළ නව වෙබ් අඩවි එළිදැක්වේ</b></a> <code>Nov 21, 202608:05 PM</code></li>
-    <li><a href="News/2026-11-21/255003-255003.md"><b>ශ්‍රී  ලංකාව කෘෂිකාර්මික වකුගඩු රෝග පාලනයට ගත් පියවරට අමෙරිකානු විද්වතුන්ගේ ඇගයීමට</b></a> <code>Nov 21, 202606:52 PM</code></li>
+    <li><a href="News/2026-11-22/255017-255017.md"><b>මත්ද්‍රව්‍ය සමග සැකකරුවෙකු සහ සැකකාරියක් කොටුවෙයි</b></a> <code>Nov 22, 202608:59 AM</code></li>
+    <li><a href="News/2026-11-22/255016-255016.md"><b>පුත්තලමේ දෙමහල් ගොඩනැඟිල්ලකින් නාඳුනන පුද්ගල මළසිරුරක් හමුවෙයි</b></a> <code>Nov 22, 202608:17 AM</code></li>
+    <li><a href="News/2026-11-22/255014-255014.md"><b>අයවැයට එරෙහිව රාජ්‍ය සේවයේ වෘත්තීය  සමිති රැසක් හෙට විරෝධතාවක</b></a> <code>Nov 22, 202607:36 AM</code></li>
+    <li><a href="News/2026-11-22/255013-255013.md"><b>යාපනය විශ්වවිද්‍යාලයේ සිසු ගැටුම ගැන අභ්‍යන්තර පරීක්ෂණයක් - සිසුන් 21ක් රිමාන්ඩ්</b></a> <code>Nov 22, 202606:56 AM</code></li>
+    <li><a href="News/2026-11-22/255012-255012.md"><b>දිවයිනේ ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි</b></a> <code>Nov 22, 202606:40 AM</code></li>
   </ul>
 </details>
 

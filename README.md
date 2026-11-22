@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-22/255052-7-IMF-02.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255052/MediaFile_20261122_120320_378.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-22/255063-255063.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255063/MediaFile_20261122_175716_528.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ශ්‍රී ලංකාවට අදාළ 7 වැනි IMF සමාලෝචනය දෙසැ. 02</h2>
+<h2>ත්‍රිකුණාමලයේදී දුම්රියක ගැටීමෙන් දෙදෙනෙකු මරුට - අයෙකුට තුවාල</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-22&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-22/255052-7-IMF-02.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-22/255063-255063.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-22/255051-255051.md"><b>කොළඹ නගරය තුළ නව මහල් නිවාස සංකීර්ණ ඉදිකිරීමට සැලසුම්</b></a> <code>Nov 22, 202605:16 PM</code></li>
-    <li><a href="News/2026-11-22/255049-255049.md"><b>නාවික හමුදා නියෝජ්‍ය මාණ්ඩලික ප්‍රධානී ලෙස රියර් අද්මිරාල් ධම්මික විජේවර්ධන පත් කෙරේ</b></a> <code>Nov 22, 202604:44 PM</code></li>
-    <li><a href="News/2026-11-22/255048-2463.md"><b>වසරේ මේ දක්වා මාර්ග අනතුරුවලින් පුද්ගලයින් 2,463ක් මරුට</b></a> <code>Nov 22, 202604:41 PM</code></li>
-    <li><a href="News/2026-11-22/255046-255046.md"><b>මුතුවැල්ල ධීවර වරාය ආසන්නයේ සිදුවූ ඩීසල් කාන්දුව පාලනයට වෙරළාරක්ෂක දෙපාර්තමේන්තුවෙන් හදිසි මෙහෙයුමක්</b></a> <code>Nov 22, 202604:02 PM</code></li>
-    <li><a href="News/2026-11-22/255045-255045.md"><b>රෝග නිවාරණයට මුල්තැන දෙන නව යුගයක් කරා රජයේ දන්ත වෛද්‍ය සේවය යොමු විය යුතුයි – අගමැති</b></a> <code>Nov 22, 202603:44 PM</code></li>
+    <li><a href="News/2026-11-22/255061-255061.md"><b>තායිලන්තය සහ ශ්‍රී ලංකාව අතර වීසා නිදහස් කිරීමේ ගිවිසුමකට අත්සන් කෙරේ</b></a> <code>Nov 22, 202610:20 PM</code></li>
+    <li><a href="News/2026-11-22/255059-255059.md"><b>බොරැල්ලේදී පදිකයාට පහරදුන් රියැදුරු ගංජාවලට ඇබ්බැහි වූවෙකු බවට වෛද්‍ය වාර්තා</b></a> <code>Nov 22, 202608:58 PM</code></li>
+    <li><a href="News/2026-11-22/255057-GLEC.md"><b>GLEC ජාත්‍යන්තර සමුළු මාලාව ජපානයෙන් ඇරඹෙයි</b></a> <code>Nov 22, 202607:24 PM</code></li>
+    <li><a href="News/2026-11-22/255056-255056.md"><b>වෘත්තිය සමිති රැසකින් රජයට අනතුරු අඟවීම්</b></a> <code>Nov 22, 202607:09 PM</code></li>
+    <li><a href="News/2026-11-22/255055-255055.md"><b>දියේ ගිලීම් වැළැක්වීම සහ ජීවිත ආරක්ෂණය සඳහා පුළුල් ජාතික යාන්ත්‍රණයක්</b></a> <code>Nov 22, 202606:40 PM</code></li>
   </ul>
 </details>
 

@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-22/255063-255063.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255063/MediaFile_20261122_175716_528.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-23/255081-1100-600.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255081/MediaFile_20261123_071937_858.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ත්‍රිකුණාමලයේදී දුම්රියක ගැටීමෙන් දෙදෙනෙකු මරුට - අයෙකුට තුවාල</h2>
+<h2>කොළඹ - මහනුවර මාර්ගය පහළ කඩුගන්නාවෙන්  අද රාත්‍රී 11.00 සිට හෙට උදෑසන 6.00 දක්වා වැසේ</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-22&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-23&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Ada%20Derana&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=Ada%20Derana&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-22/255063-255063.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-23/255081-1100-600.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-23/255064-255064.md"><b>දිස්ත්‍රික්ක කිහිපයකට  මි.මී. 75 ඉක්මවූ වැසි</b></a> <code>Nov 23, 202605:51 AM</code></li>
-    <li><a href="News/2026-11-22/255061-255061.md"><b>තායිලන්තය සහ ශ්‍රී ලංකාව අතර වීසා නිදහස් කිරීමේ ගිවිසුමකට අත්සන් කෙරේ</b></a> <code>Nov 22, 202610:20 PM</code></li>
-    <li><a href="News/2026-11-22/255059-255059.md"><b>බොරැල්ලේදී පදිකයාට පහරදුන් රියැදුරු ගංජාවලට ඇබ්බැහි වූවෙකු බවට වෛද්‍ය වාර්තා</b></a> <code>Nov 22, 202608:58 PM</code></li>
-    <li><a href="News/2026-11-22/255057-GLEC.md"><b>GLEC ජාත්‍යන්තර සමුළු මාලාව ජපානයෙන් ඇරඹෙයි</b></a> <code>Nov 22, 202607:24 PM</code></li>
-    <li><a href="News/2026-11-22/255056-255056.md"><b>වෘත්තිය සමිති රැසකින් රජයට අනතුරු අඟවීම්</b></a> <code>Nov 22, 202607:09 PM</code></li>
+    <li><a href="News/2026-11-23/255082-255082.md"><b>කොළඹ වරායේ ටැංකියක තෙල් කාන්දුවකින්  මුතුවැල්ල වෙරළ තීරයට හානි</b></a> <code>Nov 23, 202601:08 PM</code></li>
+    <li><a href="News/2026-11-23/255080-255080.md"><b>දූෂණ චෝදනාවලට තමන් නිවැරදිකරුවන් බව යෝෂිත සහ කරන්නාගොඩ අධිකරණයට කියයි</b></a> <code>Nov 23, 202612:00 PM</code></li>
+    <li><a href="News/2026-11-23/255079-ADB-200.md"><b>මෙරට සුළු හා මධ්‍ය පරිමාණ ව්‍යාපාර නංවාලීමට ADBයෙන් ඩොලර් මිලියන 200ක ණයක්</b></a> <code>Nov 23, 202611:52 AM</code></li>
+    <li><a href="News/2026-11-23/255078-255078.md"><b>අමාත්‍යාංශවල ජ්‍යෙෂ්ඨ මාණ්ඩලික නිලධාරීන් දැනුවත් කිරීමේ විශේෂ වැඩමුළුවක්</b></a> <code>Nov 23, 202611:29 AM</code></li>
+    <li><a href="News/2026-11-23/255077-255077.md"><b>එළවළු මිල ඉහළට </b></a> <code>Nov 23, 202610:52 AM</code></li>
   </ul>
 </details>
 

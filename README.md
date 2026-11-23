@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-23/255081-1100-600.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255081/MediaFile_20261123_071937_858.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-23/255106-255106.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255106/MediaFile_20261123_161837_446.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>කොළඹ - මහනුවර මාර්ගය පහළ කඩුගන්නාවෙන්  අද රාත්‍රී 11.00 සිට හෙට උදෑසන 6.00 දක්වා වැසේ</h2>
+<h2> බොරැල්ලේ හෝටලයක ගින්නක් - දුම ආඝ්‍රාණය වූ පිරිසක් රෝහලට</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-23&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-23/255081-1100-600.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-23/255106-255106.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-23/255082-255082.md"><b>කොළඹ වරායේ ටැංකියක තෙල් කාන්දුවකින්  මුතුවැල්ල වෙරළ තීරයට හානි</b></a> <code>Nov 23, 202601:08 PM</code></li>
-    <li><a href="News/2026-11-23/255080-255080.md"><b>දූෂණ චෝදනාවලට තමන් නිවැරදිකරුවන් බව යෝෂිත සහ කරන්නාගොඩ අධිකරණයට කියයි</b></a> <code>Nov 23, 202612:00 PM</code></li>
-    <li><a href="News/2026-11-23/255079-ADB-200.md"><b>මෙරට සුළු හා මධ්‍ය පරිමාණ ව්‍යාපාර නංවාලීමට ADBයෙන් ඩොලර් මිලියන 200ක ණයක්</b></a> <code>Nov 23, 202611:52 AM</code></li>
-    <li><a href="News/2026-11-23/255078-255078.md"><b>අමාත්‍යාංශවල ජ්‍යෙෂ්ඨ මාණ්ඩලික නිලධාරීන් දැනුවත් කිරීමේ විශේෂ වැඩමුළුවක්</b></a> <code>Nov 23, 202611:29 AM</code></li>
-    <li><a href="News/2026-11-23/255077-255077.md"><b>එළවළු මිල ඉහළට </b></a> <code>Nov 23, 202610:52 AM</code></li>
+    <li><a href="News/2026-11-23/255107-Mitra-Shakti-2026.md"><b>Mitra Shakti 2026 - ත්‍රස්ත මර්දන මෙහෙයුම් සඳහා ශ්‍රී ලංකා සහ ඉන්දීය හමුදා ඒකාබද්ධ පුහුණුවීම්වල</b></a> <code>Nov 23, 202610:03 PM</code></li>
+    <li><a href="News/2026-11-23/255104-255104.md"><b>විදේශීය ත්‍රස්තවාදී සටන්කරුවන් වැළැක්වීමේ පනත් කෙටුම්පත ඡන්ද විමසීමකින් තොරව සම්මත වෙයි</b></a> <code>Nov 23, 202609:33 PM</code></li>
+    <li><a href="News/2026-11-23/255105-255105.md"><b>ආබාධ සහිත පාසල් සිසුන් සඳහා ප්‍රවාහන පහසුකම් සැපයීමට සැලසුම්</b></a> <code>Nov 23, 202609:19 PM</code></li>
+    <li><a href="News/2026-11-23/255103-255103.md"><b>අයවැයට විරෝධය පා සමස්ත විශ්වවිද්‍යාල පද්ධතියම 25 විරෝධයේ</b></a> <code>Nov 23, 202608:27 PM</code></li>
+    <li><a href="News/2026-11-23/255101-2027.md"><b>2027 වර්ෂය සඳහා පාසල් සිසුන්ට පාවහන් තිළිණපත් ලබාදීමේ ක්‍රමවේදය ගැන දැනුම්දීමක්</b></a> <code>Nov 23, 202607:07 PM</code></li>
   </ul>
 </details>
 

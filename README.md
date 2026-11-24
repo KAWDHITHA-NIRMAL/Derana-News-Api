@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-23/255106-255106.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255106/MediaFile_20261123_161837_446.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-24/255111-255111.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255111/MediaFile_20261124_010709_985.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2> බොරැල්ලේ හෝටලයක ගින්නක් - දුම ආඝ්‍රාණය වූ පිරිසක් රෝහලට</h2>
+<h2>ඉල් පුර පසළොස්වක පොහොය අද</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-23&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-24&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Ada%20Derana&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=Ada%20Derana&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-23/255106-255106.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-24/255111-255111.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-23/255107-Mitra-Shakti-2026.md"><b>Mitra Shakti 2026 - ත්‍රස්ත මර්දන මෙහෙයුම් සඳහා ශ්‍රී ලංකා සහ ඉන්දීය හමුදා ඒකාබද්ධ පුහුණුවීම්වල</b></a> <code>Nov 23, 202610:03 PM</code></li>
-    <li><a href="News/2026-11-23/255104-255104.md"><b>විදේශීය ත්‍රස්තවාදී සටන්කරුවන් වැළැක්වීමේ පනත් කෙටුම්පත ඡන්ද විමසීමකින් තොරව සම්මත වෙයි</b></a> <code>Nov 23, 202609:33 PM</code></li>
-    <li><a href="News/2026-11-23/255105-255105.md"><b>ආබාධ සහිත පාසල් සිසුන් සඳහා ප්‍රවාහන පහසුකම් සැපයීමට සැලසුම්</b></a> <code>Nov 23, 202609:19 PM</code></li>
-    <li><a href="News/2026-11-23/255103-255103.md"><b>අයවැයට විරෝධය පා සමස්ත විශ්වවිද්‍යාල පද්ධතියම 25 විරෝධයේ</b></a> <code>Nov 23, 202608:27 PM</code></li>
-    <li><a href="News/2026-11-23/255101-2027.md"><b>2027 වර්ෂය සඳහා පාසල් සිසුන්ට පාවහන් තිළිණපත් ලබාදීමේ ක්‍රමවේදය ගැන දැනුම්දීමක්</b></a> <code>Nov 23, 202607:07 PM</code></li>
+    <li><a href="News/2026-11-24/255122-255122.md"><b>කිලිනොච්චිය වැවේ මසුන් දහස් ගණනක් එකවර මියයයි</b></a> <code>Nov 24, 202609:50 AM</code></li>
+    <li><a href="News/2026-11-24/255121-255121.md"><b>කල්මුණේ සහ සයින්දමරුදු සීමා නිර්ණයෙන් පසු ඡන්දය විමසීමට පියවර - මැතිවරණ කොමිසම</b></a> <code>Nov 24, 202608:41 AM</code></li>
+    <li><a href="News/2026-11-24/255120-IMF.md"><b>ආයෙත් IMF යනවද ? </b></a> <code>Nov 24, 202608:31 AM</code></li>
+    <li><a href="News/2026-11-24/255119-255119.md"><b>අනවසර විදුලි රැහැනක ගැටී තරුණයෙකු මරුට</b></a> <code>Nov 24, 202608:09 AM</code></li>
+    <li><a href="News/2026-11-24/255118-255118.md"><b>කඩුගන්නාවෙන් පාර ඇරෙයි</b></a> <code>Nov 24, 202607:54 AM</code></li>
   </ul>
 </details>
 

@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-24/255111-255111.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255111/MediaFile_20261124_010709_985.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-24/255148-255148.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255148/MediaFile_20261124_123726_684.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ඉල් පුර පසළොස්වක පොහොය අද</h2>
+<h2>ඉන්දියන් සාගරයේ භූචලනයෙන් ලංකාවට සුනාමි අවදානමක් නෑ</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-24&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-24/255111-255111.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-24/255148-255148.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-24/255122-255122.md"><b>කිලිනොච්චිය වැවේ මසුන් දහස් ගණනක් එකවර මියයයි</b></a> <code>Nov 24, 202609:50 AM</code></li>
-    <li><a href="News/2026-11-24/255121-255121.md"><b>කල්මුණේ සහ සයින්දමරුදු සීමා නිර්ණයෙන් පසු ඡන්දය විමසීමට පියවර - මැතිවරණ කොමිසම</b></a> <code>Nov 24, 202608:41 AM</code></li>
-    <li><a href="News/2026-11-24/255120-IMF.md"><b>ආයෙත් IMF යනවද ? </b></a> <code>Nov 24, 202608:31 AM</code></li>
-    <li><a href="News/2026-11-24/255119-255119.md"><b>අනවසර විදුලි රැහැනක ගැටී තරුණයෙකු මරුට</b></a> <code>Nov 24, 202608:09 AM</code></li>
-    <li><a href="News/2026-11-24/255118-255118.md"><b>කඩුගන්නාවෙන් පාර ඇරෙයි</b></a> <code>Nov 24, 202607:54 AM</code></li>
+    <li><a href="News/2026-11-24/255151-255151.md"><b>සාධාරණ ආර්ථික ප්‍රතිසාධනයකට සමාජ සංවාද ශක්තිමත් කිරීමට රජය සහ එක්සත් ජාතීන් එක්වෙයි</b></a> <code>Nov 24, 202607:28 PM</code></li>
+    <li><a href="News/2026-11-24/255149-Air-Dome.md"><b>දකුණු ආසියාවේ පළමු Air Dome ව්‍යුහය කොළඹ වරාය නගරයේදී</b></a> <code>Nov 24, 202606:08 PM</code></li>
+    <li><a href="News/2026-11-24/255147-255147.md"><b>ඉන්දියානු සාගරයේ භූ චලනයක් - වෙරළබඩ ජනතාවට දැනුම්දීමක්</b></a> <code>Nov 24, 202605:31 PM</code></li>
+    <li><a href="News/2026-11-24/255145-22-150000.md"><b>නොවැම්බරයේ ගතවූ දින 22ට සංචාරකයින් 150,000කට අධික පිරිසක් දිවයිනට</b></a> <code>Nov 24, 202605:17 PM</code></li>
+    <li><a href="News/2026-11-24/255143-255143.md"><b>ප්‍රදේශ කිහිපයකට නායයෑම් පූර්ව අනතුරු ඇඟවීම්</b></a> <code>Nov 24, 202605:01 PM</code></li>
   </ul>
 </details>
 

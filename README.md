@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-25/255175-255175.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255175/MediaFile_20261125_050653_106.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-25/255207-255207.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255207/MediaFile_20261125_160427_940.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ගෝඨාභයගේ පෙත්සම සලකා බැලීමට දිනදෙයි</h2>
+<h2>අසනීප නිවාඩු දමා ගුරු-විදුහල්පති නොවැ. 30 වෘත්තීය ක්‍රියාමාර්ගයක </h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-25&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-25/255175-255175.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-25/255207-255207.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-25/255178-255178.md"><b>සුඛෝපභෝගී වාහන නඩුව - ජෝන්ස්ටන්ට දඩ සහ අත්හිටවූ සිරදඬුවම්</b></a> <code>Nov 25, 202611:03 AM</code></li>
-    <li><a href="News/2026-11-25/255176-255176.md"><b>මහවිරු දිනට සමගාමීව මහවිරු පවුල්වල මව්පියන්ට ගෞරව දැක්වීමේ වැඩසටහනක් මුලතිව් දිස්ත්‍රික්කයේදී...</b></a> <code>Nov 25, 202610:59 AM</code></li>
-    <li><a href="News/2026-11-25/255174-255174.md"><b>හිටපු ඇමති වාසු අල්ලස් කොමිසමට</b></a> <code>Nov 25, 202610:25 AM</code></li>
-    <li><a href="News/2026-11-25/255173-255173.md"><b>ජොනී කොටුවට</b></a> <code>Nov 25, 202610:20 AM</code></li>
-    <li><a href="News/2026-11-25/255171-255171.md"><b>අයවැය එරෙහිව දන්ත ශල්‍ය වෛද්‍යවරුන්ගෙනුත් රතු එළියක්</b></a> <code>Nov 25, 202610:14 AM</code></li>
+    <li><a href="News/2026-11-25/255206-255206.md"><b>දිස්ත්‍රික්ක 06කට නායයෑම් පූර්ව අනතුරු ඇඟවීම්</b></a> <code>Nov 25, 202609:19 PM</code></li>
+    <li><a href="News/2026-11-25/255205-255205.md"><b>දැදුරු ඔය ජලාශයේ වාන් දොරටු 06ක් විවෘත කෙරේ - පහත් බිම්වල ජනතාවට අනතුරු ඇඟවීම්</b></a> <code>Nov 25, 202608:34 PM</code></li>
+    <li><a href="News/2026-11-25/255204-255204.md"><b>ගෝඨාභය රාජපක්ෂගේ විදෙස්ගමන් තහනම පිළිබඳ නියෝගය - සම්පූර්ණ විස්තරය</b></a> <code>Nov 25, 202608:09 PM</code></li>
+    <li><a href="News/2026-11-25/255203-255203.md"><b>අමෙරිකාවෙන් රටවල් රැසකට නව තීරුබදු</b></a> <code>Nov 25, 202607:32 PM</code></li>
+    <li><a href="News/2026-11-25/255202-281.md"><b>මධ්‍යම පරිසර අධිකාරියට නව පරිසර නිලධාරීන් 281ක් බඳවා ගැනේ</b></a> <code>Nov 25, 202606:55 PM</code></li>
   </ul>
 </details>
 

@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-26/255236-255236.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255236/MediaFile_20261126_070441_463.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-26/255265-255265.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255265/MediaFile_20261126_153636_477.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ සභාපති ඉල්ලා අස්වීමේ ලිපිය භාර දෙයි</h2>
+<h2>''අසාධාරණ ඉල්ලීම්වලට විසඳුම් දිය නොහැකියි'' - ජනපති</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-26&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-26/255236-255236.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-26/255265-255265.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-26/255237-255237.md"><b>වරද පිළිගත් ඩයනාට දඬුවම් නියම කිරීම ජනවාරි 14 වැනිදා</b></a> <code>Nov 26, 202612:23 PM</code></li>
-    <li><a href="News/2026-11-26/255235-255235.md"><b>ලංකාවට කුදලන් ආ ගල්කිස්සේ රාලහාමි වැඩිදුරට විමර්ශන සඳහා රැගෙන යයි </b></a> <code>Nov 26, 202611:57 AM</code></li>
-    <li><a href="News/2026-11-26/255234-255234.md"><b>ගුරු ස්ථාන මාරු ප්‍රතිපත්තිය සංශෝධනය කරන්න අවධානය</b></a> <code>Nov 26, 202611:36 AM</code></li>
-    <li><a href="News/2026-11-26/255233-255233.md"><b>කස්සප හිමිට ඇප</b></a> <code>Nov 26, 202611:29 AM</code></li>
-    <li><a href="News/2026-11-26/255232-255232.md"><b>ඩයනා වරද පිළිගනී</b></a> <code>Nov 26, 202611:12 AM</code></li>
+    <li><a href="News/2026-11-26/255268-255268.md"><b>ඉන්දියාව ගෙදර යවා ශ්‍රී ලංකාව ආසියානු නැගීඑන තරු ක්‍රිකට් අවසන් සටනට</b></a> <code>Nov 26, 202610:42 PM</code></li>
+    <li><a href="News/2026-11-26/255267-HIV.md"><b>මිලියන ගණනකට නව බලාපොරොත්තුවක් - අඩු වියදම් HIV නිවාරණ එන්නත අප්‍රිකාවට</b></a> <code>Nov 26, 202610:24 PM</code></li>
+    <li><a href="News/2026-11-26/255266-255266.md"><b>රු. කෝටි 18කට අධික හෂීෂ් මත්ද්‍රව්‍ය තොගයක් පෑලියගොඩ ගුදමකින් හමුවෙයි</b></a> <code>Nov 26, 202609:58 PM</code></li>
+    <li><a href="News/2026-11-26/255264-255264.md"><b>ඉරානයෙන් කුවේටයට ඩ්‍රෝන ප්‍රහාරයක්</b></a> <code>Nov 26, 202608:57 PM</code></li>
+    <li><a href="News/2026-11-26/255263-255263.md"><b>මෝර වරල් සහ බීඩි කොළ මහා පරිමාණ ජාවාරමක තොරතුරු හෙළිවෙයි</b></a> <code>Nov 26, 202608:07 PM</code></li>
   </ul>
 </details>
 

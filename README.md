@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-25/255207-255207.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255207/MediaFile_20261125_160427_940.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-26/255213-100.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255213/MediaFile_20261126_001326_375.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>අසනීප නිවාඩු දමා ගුරු-විදුහල්පති නොවැ. 30 වෘත්තීය ක්‍රියාමාර්ගයක </h2>
+<h2>අදත් ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ තද වැසි </h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-25&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-26&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Ada%20Derana&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=Ada%20Derana&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-25/255207-255207.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-26/255213-100.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-25/255206-255206.md"><b>දිස්ත්‍රික්ක 06කට නායයෑම් පූර්ව අනතුරු ඇඟවීම්</b></a> <code>Nov 25, 202609:19 PM</code></li>
-    <li><a href="News/2026-11-25/255205-255205.md"><b>දැදුරු ඔය ජලාශයේ වාන් දොරටු 06ක් විවෘත කෙරේ - පහත් බිම්වල ජනතාවට අනතුරු ඇඟවීම්</b></a> <code>Nov 25, 202608:34 PM</code></li>
-    <li><a href="News/2026-11-25/255204-255204.md"><b>ගෝඨාභය රාජපක්ෂගේ විදෙස්ගමන් තහනම පිළිබඳ නියෝගය - සම්පූර්ණ විස්තරය</b></a> <code>Nov 25, 202608:09 PM</code></li>
-    <li><a href="News/2026-11-25/255203-255203.md"><b>අමෙරිකාවෙන් රටවල් රැසකට නව තීරුබදු</b></a> <code>Nov 25, 202607:32 PM</code></li>
-    <li><a href="News/2026-11-25/255202-281.md"><b>මධ්‍යම පරිසර අධිකාරියට නව පරිසර නිලධාරීන් 281ක් බඳවා ගැනේ</b></a> <code>Nov 25, 202606:55 PM</code></li>
+    <li><a href="News/2026-11-25/255211-255211.md"><b>අකුරණින් ජලයෙන් යටවූ 'A9' මාර්ගයේ ගමනාගමනය යථා තත්ත්වයට</b></a> <code>Nov 25, 202611:19 PM</code></li>
+    <li><a href="News/2026-11-25/255210-255210.md"><b>රුසියාවේ සිට මත්තලට පැමිණි යානයක් හදිසි පරික්ෂාවට</b></a> <code>Nov 25, 202611:03 PM</code></li>
+    <li><a href="News/2026-11-25/255209-255209.md"><b>කාන්තා හිංසනය නවත්වන්න සමාජ ආකල්ප වෙනස් කර නීති දැඩි කළ යුතුයි – අගමැති හරිනි</b></a> <code>Nov 25, 202610:18 PM</code></li>
+    <li><a href="News/2026-11-25/255208-255208.md"><b>කාවන්තිස්ස ඇතාගේ මරණය සම්බන්ධ නඩුවේ සැකකරුවන් යළි රිමාන්ඩ්</b></a> <code>Nov 25, 202609:47 PM</code></li>
+    <li><a href="News/2026-11-25/255207-255207.md"><b>අසනීප නිවාඩු දමා ගුරු-විදුහල්පති නොවැ. 30 වෘත්තීය ක්‍රියාමාර්ගයක </b></a> <code>Nov 25, 202609:21 PM</code></li>
   </ul>
 </details>
 

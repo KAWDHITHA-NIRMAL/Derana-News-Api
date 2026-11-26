@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-26/255213-100.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255213/MediaFile_20261126_001326_375.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-26/255236-255236.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255236/MediaFile_20261126_070441_463.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>අදත් ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ තද වැසි </h2>
+<h2>බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ සභාපති ඉල්ලා අස්වීමේ ලිපිය භාර දෙයි</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-26&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-26/255213-100.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-26/255236-255236.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-25/255211-255211.md"><b>අකුරණින් ජලයෙන් යටවූ 'A9' මාර්ගයේ ගමනාගමනය යථා තත්ත්වයට</b></a> <code>Nov 25, 202611:19 PM</code></li>
-    <li><a href="News/2026-11-25/255210-255210.md"><b>රුසියාවේ සිට මත්තලට පැමිණි යානයක් හදිසි පරික්ෂාවට</b></a> <code>Nov 25, 202611:03 PM</code></li>
-    <li><a href="News/2026-11-25/255209-255209.md"><b>කාන්තා හිංසනය නවත්වන්න සමාජ ආකල්ප වෙනස් කර නීති දැඩි කළ යුතුයි – අගමැති හරිනි</b></a> <code>Nov 25, 202610:18 PM</code></li>
-    <li><a href="News/2026-11-25/255208-255208.md"><b>කාවන්තිස්ස ඇතාගේ මරණය සම්බන්ධ නඩුවේ සැකකරුවන් යළි රිමාන්ඩ්</b></a> <code>Nov 25, 202609:47 PM</code></li>
-    <li><a href="News/2026-11-25/255207-255207.md"><b>අසනීප නිවාඩු දමා ගුරු-විදුහල්පති නොවැ. 30 වෘත්තීය ක්‍රියාමාර්ගයක </b></a> <code>Nov 25, 202609:21 PM</code></li>
+    <li><a href="News/2026-11-26/255237-255237.md"><b>වරද පිළිගත් ඩයනාට දඬුවම් නියම කිරීම ජනවාරි 14 වැනිදා</b></a> <code>Nov 26, 202612:23 PM</code></li>
+    <li><a href="News/2026-11-26/255235-255235.md"><b>ලංකාවට කුදලන් ආ ගල්කිස්සේ රාලහාමි වැඩිදුරට විමර්ශන සඳහා රැගෙන යයි </b></a> <code>Nov 26, 202611:57 AM</code></li>
+    <li><a href="News/2026-11-26/255234-255234.md"><b>ගුරු ස්ථාන මාරු ප්‍රතිපත්තිය සංශෝධනය කරන්න අවධානය</b></a> <code>Nov 26, 202611:36 AM</code></li>
+    <li><a href="News/2026-11-26/255233-255233.md"><b>කස්සප හිමිට ඇප</b></a> <code>Nov 26, 202611:29 AM</code></li>
+    <li><a href="News/2026-11-26/255232-255232.md"><b>ඩයනා වරද පිළිගනී</b></a> <code>Nov 26, 202611:12 AM</code></li>
   </ul>
 </details>
 

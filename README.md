@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-27/255290-30-GMOA.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255290/MediaFile_20261127_080902_712.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-27/255310-255310.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255310/MediaFile_20261127_143404_915.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>නොවැ. 30 වර්ජනයට 'GMOA' එක්වෙයි</h2>
+<h2>ගෝඨාභයගේ බව කියන ආන්දෝලනාත්මක හඬපටයක් ලලිත් - කුගන් නඩුවේදී අද අධිකරණයට</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-27&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-27/255290-30-GMOA.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-27/255310-255310.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-27/255298-255298.md"><b>චීනයේ නිෂ්පාදිත දුම්වැටි තොගයක් සමග ලාංකික ගුවන් මගීන් තිදෙනෙකු අත්අඩංගුවට</b></a> <code>Nov 27, 202603:38 PM</code></li>
-    <li><a href="News/2026-11-27/255295-255295.md"><b>කාත්තන්කුඩි ද්‍රව්‍ය ප්‍රතිසාධන මධ්‍යස්ථානය විවෘත කෙරේ </b></a> <code>Nov 27, 202602:34 PM</code></li>
-    <li><a href="News/2026-11-27/255294-PIN-TIN.md"><b>PIN සහ TIN ලබාගැනීමට දේශීය ආදායම් ප්‍රාදේශීය කාර්යාල සති අන්තයේත් විවෘතයි</b></a> <code>Nov 27, 202602:31 PM</code></li>
-    <li><a href="News/2026-11-27/255293-255293.md"><b>රත්නපුර - හිදැල්ලන ප්‍රදේශයේ සිදු වූ රිය අනතුරකින් 16කට තුවාල </b></a> <code>Nov 27, 202602:21 PM</code></li>
-    <li><a href="News/2026-11-27/255292-255292.md"><b>කුක් දූපත්වල අතරමංව සිටින රුචිරා සෙව්වන්දි ගෙන්වා ගැනීමට මෙරටින් විශේෂ ඉල්ලීමක්</b></a> <code>Nov 27, 202602:15 PM</code></li>
+    <li><a href="News/2026-11-27/255315-DMT.md"><b>සයිබර් ප්‍රහාරයකට ලක් වූ DMT පරිගණක පද්ධතිය යථා තත්ත්වයට</b></a> <code>Nov 27, 202610:29 PM</code></li>
+    <li><a href="News/2026-11-27/255314-255314.md"><b>පරිසර නිලධාරීන් බඳවා ගැනීමේ ක්‍රියාවලිය ගැන මධ්‍යම පරිසර අධිකාරියෙන් පැහැදිලි කිරීමක්</b></a> <code>Nov 27, 202609:48 PM</code></li>
+    <li><a href="News/2026-11-27/255313-255313.md"><b>අමාත්‍ය විජිත හේරත් සහ මාලදිවයින්  විදේශ අමාත්‍යවරිය අතර හමුවක්</b></a> <code>Nov 27, 202609:17 PM</code></li>
+    <li><a href="News/2026-11-27/255312-T-56.md"><b>නීති විරෝධී T-56 ගිනිඅවියක් හා උණ්ඩ සමඟ විශ්‍රාමික හමුදා සාමාජිකයෙක් අත්අඩංගුවට </b></a> <code>Nov 27, 202608:23 PM</code></li>
+    <li><a href="News/2026-11-27/255309-255309.md"><b>ග්‍රාමීය සංවර්ධන -  ධීවර අමාත්‍යාංශවල වැය ශීර්ෂ සම්මතයි</b></a> <code>Nov 27, 202607:19 PM</code></li>
   </ul>
 </details>
 

@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-26/255265-255265.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255265/MediaFile_20261126_153636_477.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-27/255270-255270.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255270/MediaFile_20261127_005339_156.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>''අසාධාරණ ඉල්ලීම්වලට විසඳුම් දිය නොහැකියි'' - ජනපති</h2>
+<h2>මත්ද්‍රව්‍ය බවට සැක යාත්‍රාවක් නාවික හමුදා භාරයට - 7ක් අත්අඩංගුවට</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-26&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-27&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Ada%20Derana&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=Ada%20Derana&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-26/255265-255265.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-27/255270-255270.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-26/255268-255268.md"><b>ඉන්දියාව ගෙදර යවා ශ්‍රී ලංකාව ආසියානු නැගීඑන තරු ක්‍රිකට් අවසන් සටනට</b></a> <code>Nov 26, 202610:42 PM</code></li>
-    <li><a href="News/2026-11-26/255267-HIV.md"><b>මිලියන ගණනකට නව බලාපොරොත්තුවක් - අඩු වියදම් HIV නිවාරණ එන්නත අප්‍රිකාවට</b></a> <code>Nov 26, 202610:24 PM</code></li>
+    <li><a href="News/2026-11-27/255272-255272.md"><b>සෞදියේ තෙල් පිරිපහදු මධ්‍යස්ථානයකට හූති ප්‍රහාරයක්</b></a> <code>Nov 27, 202607:00 AM</code></li>
+    <li><a href="News/2026-11-27/255271-255271.md"><b>බැංකු ගිණුමකින් රුපියල් ලක්ෂ 10ක් වංචා කළ සැකකරුවෙකු අත්අඩංගුවට</b></a> <code>Nov 27, 202606:36 AM</code></li>
+    <li><a href="News/2026-11-27/255269-100.md"><b>ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ තද වැසි</b></a> <code>Nov 27, 202606:15 AM</code></li>
     <li><a href="News/2026-11-26/255266-255266.md"><b>රු. කෝටි 18කට අධික හෂීෂ් මත්ද්‍රව්‍ය තොගයක් පෑලියගොඩ ගුදමකින් හමුවෙයි</b></a> <code>Nov 26, 202609:58 PM</code></li>
-    <li><a href="News/2026-11-26/255264-255264.md"><b>ඉරානයෙන් කුවේටයට ඩ්‍රෝන ප්‍රහාරයක්</b></a> <code>Nov 26, 202608:57 PM</code></li>
-    <li><a href="News/2026-11-26/255263-255263.md"><b>මෝර වරල් සහ බීඩි කොළ මහා පරිමාණ ජාවාරමක තොරතුරු හෙළිවෙයි</b></a> <code>Nov 26, 202608:07 PM</code></li>
+    <li><a href="News/2026-11-26/255265-255265.md"><b>''අසාධාරණ ඉල්ලීම්වලට විසඳුම් දිය නොහැකියි'' - ජනපති</b></a> <code>Nov 26, 202609:00 PM</code></li>
   </ul>
 </details>
 

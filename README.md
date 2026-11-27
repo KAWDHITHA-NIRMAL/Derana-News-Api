@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-27/255270-255270.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255270/MediaFile_20261127_005339_156.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-27/255290-30-GMOA.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255290/MediaFile_20261127_080902_712.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>මත්ද්‍රව්‍ය බවට සැක යාත්‍රාවක් නාවික හමුදා භාරයට - 7ක් අත්අඩංගුවට</h2>
+<h2>නොවැ. 30 වර්ජනයට 'GMOA' එක්වෙයි</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-27&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-27/255270-255270.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-27/255290-30-GMOA.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-27/255272-255272.md"><b>සෞදියේ තෙල් පිරිපහදු මධ්‍යස්ථානයකට හූති ප්‍රහාරයක්</b></a> <code>Nov 27, 202607:00 AM</code></li>
-    <li><a href="News/2026-11-27/255271-255271.md"><b>බැංකු ගිණුමකින් රුපියල් ලක්ෂ 10ක් වංචා කළ සැකකරුවෙකු අත්අඩංගුවට</b></a> <code>Nov 27, 202606:36 AM</code></li>
-    <li><a href="News/2026-11-27/255269-100.md"><b>ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ තද වැසි</b></a> <code>Nov 27, 202606:15 AM</code></li>
-    <li><a href="News/2026-11-26/255266-255266.md"><b>රු. කෝටි 18කට අධික හෂීෂ් මත්ද්‍රව්‍ය තොගයක් පෑලියගොඩ ගුදමකින් හමුවෙයි</b></a> <code>Nov 26, 202609:58 PM</code></li>
-    <li><a href="News/2026-11-26/255265-255265.md"><b>''අසාධාරණ ඉල්ලීම්වලට විසඳුම් දිය නොහැකියි'' - ජනපති</b></a> <code>Nov 26, 202609:00 PM</code></li>
+    <li><a href="News/2026-11-27/255298-255298.md"><b>චීනයේ නිෂ්පාදිත දුම්වැටි තොගයක් සමග ලාංකික ගුවන් මගීන් තිදෙනෙකු අත්අඩංගුවට</b></a> <code>Nov 27, 202603:38 PM</code></li>
+    <li><a href="News/2026-11-27/255295-255295.md"><b>කාත්තන්කුඩි ද්‍රව්‍ය ප්‍රතිසාධන මධ්‍යස්ථානය විවෘත කෙරේ </b></a> <code>Nov 27, 202602:34 PM</code></li>
+    <li><a href="News/2026-11-27/255294-PIN-TIN.md"><b>PIN සහ TIN ලබාගැනීමට දේශීය ආදායම් ප්‍රාදේශීය කාර්යාල සති අන්තයේත් විවෘතයි</b></a> <code>Nov 27, 202602:31 PM</code></li>
+    <li><a href="News/2026-11-27/255293-255293.md"><b>රත්නපුර - හිදැල්ලන ප්‍රදේශයේ සිදු වූ රිය අනතුරකින් 16කට තුවාල </b></a> <code>Nov 27, 202602:21 PM</code></li>
+    <li><a href="News/2026-11-27/255292-255292.md"><b>කුක් දූපත්වල අතරමංව සිටින රුචිරා සෙව්වන්දි ගෙන්වා ගැනීමට මෙරටින් විශේෂ ඉල්ලීමක්</b></a> <code>Nov 27, 202602:15 PM</code></li>
   </ul>
 </details>
 

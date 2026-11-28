@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-28/255317-255317.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255317/MediaFile_20261128_013211_487.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-28/255330-255330.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255330/MediaFile_20261128_070705_105.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ද. කොරියාවේ ට්‍රක් රථ අනතුරකින් ශ්‍රී ලාංකිකයින් දෙදෙනෙකු මරුට‍</h2>
+<h2>"පාලකයා ප්‍රතිපත්තිගරුක නම් රට සෞභාග්‍ය වෙනවා.. දූෂිත නම් රට අරාජික වෙනවා" - ජනපති</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-28&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-28/255317-255317.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-28/255330-255330.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-28/255319-255319.md"><b>දිස්ත්‍රික්ක 07කට නායයෑම් පූර්ව අනතුරු ඇඟවීම් නිකුත් කෙරේ</b></a> <code>Nov 28, 202607:15 AM</code></li>
-    <li><a href="News/2026-11-28/255318-255318.md"><b>නාවික හමුදා භාරයට ගත් යාත්‍රාවේ තිබී හෙරොයින් කිලෝග්‍රෑම් 3.6ක් සොයා ගැනේ</b></a> <code>Nov 28, 202606:53 AM</code></li>
-    <li><a href="News/2026-11-28/255316-100.md"><b>දිස්ත්‍රික්ක කිහිපයකට මි.මී. 100 ඉක්මවූ තද වැසි</b></a> <code>Nov 28, 202606:26 AM</code></li>
-    <li><a href="News/2026-11-27/255315-DMT.md"><b>සයිබර් ප්‍රහාරයකට ලක් වූ DMT පරිගණක පද්ධතිය යථා තත්ත්වයට</b></a> <code>Nov 27, 202610:29 PM</code></li>
-    <li><a href="News/2026-11-27/255314-255314.md"><b>පරිසර නිලධාරීන් බඳවා ගැනීමේ ක්‍රියාවලිය ගැන මධ්‍යම පරිසර අධිකාරියෙන් පැහැදිලි කිරීමක්</b></a> <code>Nov 27, 202609:48 PM</code></li>
+    <li><a href="News/2026-11-28/255335-255335.md"><b>ත්‍රිකුණාමලය වරායේ  බූම් කෝව් ප්‍රදේශයේ තෙල් තට්ටු ඉවත් කිරීම ඇරඹේ </b></a> <code>Nov 28, 202602:25 PM</code></li>
+    <li><a href="News/2026-11-28/255334-255334.md"><b>රතු නිවේදන නිකුත් කළ 43ක් හැංගිලා ඉන්න රටවල් හොයාගත්තා - අමාත්‍ය ආනන්ද විජේපාල</b></a> <code>Nov 28, 202602:17 PM</code></li>
+    <li><a href="News/2026-11-28/255332-255332.md"><b>පුත්තලම නගරාධිපති සහ පදික වෙළෙන්දෙකු අතර ගැටුමක්</b></a> <code>Nov 28, 202601:19 PM</code></li>
+    <li><a href="News/2026-11-28/255331-255331.md"><b>ද. කොරියාවේ රිය අනතුරෙන් මියගිය ලාංකිකයන්ගේ අනන්‍යතාව හෙළිවෙයි</b></a> <code>Nov 28, 202601:17 PM</code></li>
+    <li><a href="News/2026-11-28/255329-255329.md"><b>වෑන් රථයක් පැහැරගෙන යමින් සිටි පිරිසකට පොලිසියෙන් වෙඩි</b></a> <code>Nov 28, 202611:43 AM</code></li>
   </ul>
 </details>
 

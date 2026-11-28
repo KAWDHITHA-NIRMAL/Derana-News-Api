@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-27/255310-255310.md">
-  <img src="https://media.adaderanasinhala.lk/articles/255310/MediaFile_20261127_143404_915.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-28/255317-255317.md">
+  <img src="https://media.adaderanasinhala.lk/articles/255317/MediaFile_20261128_013211_487.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ගෝඨාභයගේ බව කියන ආන්දෝලනාත්මක හඬපටයක් ලලිත් - කුගන් නඩුවේදී අද අධිකරණයට</h2>
+<h2>ද. කොරියාවේ ට්‍රක් රථ අනතුරකින් ශ්‍රී ලාංකිකයින් දෙදෙනෙකු මරුට‍</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-27&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-28&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Ada%20Derana&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=Ada%20Derana&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-27/255310-255310.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-28/255317-255317.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
+    <li><a href="News/2026-11-28/255319-255319.md"><b>දිස්ත්‍රික්ක 07කට නායයෑම් පූර්ව අනතුරු ඇඟවීම් නිකුත් කෙරේ</b></a> <code>Nov 28, 202607:15 AM</code></li>
+    <li><a href="News/2026-11-28/255318-255318.md"><b>නාවික හමුදා භාරයට ගත් යාත්‍රාවේ තිබී හෙරොයින් කිලෝග්‍රෑම් 3.6ක් සොයා ගැනේ</b></a> <code>Nov 28, 202606:53 AM</code></li>
+    <li><a href="News/2026-11-28/255316-100.md"><b>දිස්ත්‍රික්ක කිහිපයකට මි.මී. 100 ඉක්මවූ තද වැසි</b></a> <code>Nov 28, 202606:26 AM</code></li>
     <li><a href="News/2026-11-27/255315-DMT.md"><b>සයිබර් ප්‍රහාරයකට ලක් වූ DMT පරිගණක පද්ධතිය යථා තත්ත්වයට</b></a> <code>Nov 27, 202610:29 PM</code></li>
     <li><a href="News/2026-11-27/255314-255314.md"><b>පරිසර නිලධාරීන් බඳවා ගැනීමේ ක්‍රියාවලිය ගැන මධ්‍යම පරිසර අධිකාරියෙන් පැහැදිලි කිරීමක්</b></a> <code>Nov 27, 202609:48 PM</code></li>
-    <li><a href="News/2026-11-27/255313-255313.md"><b>අමාත්‍ය විජිත හේරත් සහ මාලදිවයින්  විදේශ අමාත්‍යවරිය අතර හමුවක්</b></a> <code>Nov 27, 202609:17 PM</code></li>
-    <li><a href="News/2026-11-27/255312-T-56.md"><b>නීති විරෝධී T-56 ගිනිඅවියක් හා උණ්ඩ සමඟ විශ්‍රාමික හමුදා සාමාජිකයෙක් අත්අඩංගුවට </b></a> <code>Nov 27, 202608:23 PM</code></li>
-    <li><a href="News/2026-11-27/255309-255309.md"><b>ග්‍රාමීය සංවර්ධන -  ධීවර අමාත්‍යාංශවල වැය ශීර්ෂ සම්මතයි</b></a> <code>Nov 27, 202607:19 PM</code></li>
   </ul>
 </details>
 
